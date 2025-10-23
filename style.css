@@ -38,6 +38,11 @@ body {
     font-size: 20px;
 }
 
+a.pointer{
+    display: block;
+    padding: 100px 300px;
+}
+
 a {
     text-decoration: none;
     color: black;
